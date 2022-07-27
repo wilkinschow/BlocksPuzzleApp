@@ -11,4 +11,4 @@ comma.
 - Download and unzip package into VS Code. 
 - Make sure your VS Code is set up for Java Development [here](https://code.visualstudio.com/docs/java/java-tutorial).
 - Export jar file using point 3 in this [guide](https://dev.to/rohitk570/create-an-executable-jar-file-on-vs-code-n-command-line-154b).
-- Command line usage: Java -jar .\app1.jar c:\example1.txt
+- Command line usage: Java -jar .\BlocksPuzzleApp.jar c:\example1.txt
